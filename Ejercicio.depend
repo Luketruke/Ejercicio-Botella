@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1630184556 source:c:\users\luketruke\desktop\ejercicios\ejercicio\main.cpp
+	<iostream>
+	<cstdlib>
+	"Botella.h"
+	"Funciones.h"
+
+1630180073 c:\users\luketruke\desktop\ejercicios\ejercicio\include\botella.h
+
+1630181807 c:\users\luketruke\desktop\ejercicios\ejercicio\include\funciones.h
+
+1630184921 source:c:\users\luketruke\desktop\ejercicios\ejercicio\src\botella.cpp
+	<iostream>
+	"Botella.h"
+
+1630184524 source:c:\users\luketruke\desktop\ejercicios\ejercicio\src\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"Botella.h"
+
